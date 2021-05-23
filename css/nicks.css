@@ -26,3 +26,26 @@
 .game-tech {
     font-style: italic;
 }
+
+.social_ico {
+    width: 30px;
+    height: 30px;
+    /*padding: 0px;
+    border: 0px;
+    border-radius: 0px;
+    margin-top: 4px;
+    margin-right: 1x;
+    opacity: 0.65;*/
+}
+
+.header {
+    /*position: relative;*/
+    /*margin-top: 50px;*/
+}
+
+.contact {
+    margin-top: 50px;
+    margin-right: 25px;
+    /*position: absolute;
+    bottom: 0;*/
+}
