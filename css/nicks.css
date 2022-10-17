@@ -49,3 +49,23 @@
     /*position: absolute;
     bottom: 0;*/
 }
+
+.button-primary-steam {
+    background-color: #505464;
+    color: #FFFFFF;
+}
+
+.list-prefix {
+    margin-bottom: 10px;
+}
+
+.contributions {
+  list-style-position: outside;
+  /*text-indent: -1em;*/
+  padding-left: 1em;
+}
+
+.contributions li {
+  padding-left: 8px;
+}
+
